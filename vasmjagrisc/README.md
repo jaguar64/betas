@@ -6,6 +6,7 @@ The uploaded file is Debug version to help hunt potential bugs.
 
 USE IT AT OWN RISK. This is not even beta but alpha. You've been warned.
 
-What is missing: vlink
+What is missing: vbcc, vasm for m68k
 
-For vasm users: CPU is jagrisc and SYNTAX is std. Nothing else is supported.
+For vasm users: CPU is jagrisc and SYNTAX is std. Nothing else is supported for now.
+m68k version of vasm soon will be made available.
