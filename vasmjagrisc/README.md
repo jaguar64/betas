@@ -6,6 +6,6 @@ The uploaded file is Debug version to help hunt potential bugs.
 
 USE IT AT OWN RISK. This is not even beta but alpha. You've been warned.
 
-What is missing: vobjdump, vlink
+What is missing: vlink
 
 For vasm users: CPU is jagrisc and SYNTAX is std. Nothing else is supported.
