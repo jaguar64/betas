@@ -8,7 +8,7 @@ USE IT AT OWN RISK. This is not even beta but alpha. You've been warned.
 
 x64 directory contains native x64 Windows binaries.
 
-What is missing: vbcc, vasm for m68k
+What is missing: vbcc
 
 
 For vasm users: CPU is jagrisc and SYNTAX is std. Nothing else is supported for now.
